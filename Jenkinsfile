@@ -1,3 +1,4 @@
+#!groovy
 // in this array we'll place the jobs that we wish to run
 def branches = [:]
 
